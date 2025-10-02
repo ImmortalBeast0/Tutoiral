@@ -1,0 +1,1 @@
+configuration is updating ,why the fetch command used , can we directly use a pull 
